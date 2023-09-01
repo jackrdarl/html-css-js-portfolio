@@ -386,14 +386,19 @@ article .icon {
 }
 
 .project-img {
-	border-radius: 2rem;
-	width: 90%;
-	height: 90%;
+	border-radius: 1rem;
+	width: 50%;
+	height: 50%;
 }
 
 .project-title {
 	margin: 1rem;
 	color: black;
+}
+
+.project-sub {
+	margin: 1rem;
+	font-size: small;
 }
 
 .project-btn {
